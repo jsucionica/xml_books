@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<books>
+  <book>
+    <title>Childhood's end</title>
+    <author>Arthur C. Clarke</author>
+    <year>1953</year>
+  <thumb>http://images.popmatters.com/news_art/c/childhoods_end_poster.jpg</thumb>
+  </book>
+  <book>
+    <title>The Andromeda Strain</title>
+    <author> Michael Crichton</author>
+    <year>1971</year>
+  <thumb>https://images-na.ssl-images-amazon.com/images/M/MV5BMTgwMDM0NzUyN15BMl5BanBnXkFtZTcwODk5MTE3MQ@@._V1_UY1200_CR146,0,630,1200_AL_.jpg</thumb>
+  </book>
+</books>
